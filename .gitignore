@@ -1,3 +1,7 @@
+# propios
+.DS_store
+.FCStd1
+
 # Prerequisites
 *.d
 
